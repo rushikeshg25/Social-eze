@@ -21,18 +21,18 @@
 
 ## Table of Contents
 
-    - Overview
-    - Features of the App with Gifs demo
+    - Introduction
+    - Overview of the App with Gifs demo
     - Data Schema for Posts and Users on the Platform
 
  <br />
-## Overview 🔨
+## Introduction 🔨
 
-Social-eze  is a Social Media Platform which enables the users to have social Interactions with other People using the World Wide Web easily thus the name Social-eze (social easy). Users can share their Images, update their status, add Friends,seperate Profile Page for all Users and many other Features. Lets dive deep into the Features.
+Social-eze  is a Social Media Platform which enables the users to have social Interactions with other People using the World Wide Web easily thus the name Social-eze (social ease). Users can share their Images, update their status, add Friends,seperate Profile Page for all Users and many other Features. Lets dive deep into the Features.
 
 <br/>
 
-<h2>#Features 💡</h2>
+<h2>#Overview of Social-eze 💡</h2>
 
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Login%20and%20DarkMode.gif)
 
@@ -47,5 +47,5 @@ Social-eze  is a Social Media Platform which enables the users to have social In
 #Posts Schema
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-22%20003528.png)
 
-
+<h2>Thank You/h2>
 
