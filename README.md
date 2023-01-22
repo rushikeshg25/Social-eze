@@ -40,3 +40,4 @@ Social-eze  is a Social Media Platform which enables the users to have social In
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-21%20205221.png)
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-22%20003528.png)
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/SignUP.gif)
+![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Overview.gif)
