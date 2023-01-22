@@ -33,9 +33,8 @@ Social-eze  is a Social Media Platform which enables the users to have social In
 <br/>
 
 <h2>#Features 💡</h2>
-<br/>
-#Login and Overview with Dark Mode
-![Demo](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Login%20and%20DarkMode.gif)
+
+![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Login%20and%20DarkMode.gif)
 
 #Signup
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/SignUP.gif)
