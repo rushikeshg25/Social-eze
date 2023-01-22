@@ -47,5 +47,5 @@ Social-eze  is a Social Media Platform which enables the users to have social In
 #Posts Schema
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-22%20003528.png)
 
-<h2>Thank You/h2>
+<h2>Thank You</h2>
 
