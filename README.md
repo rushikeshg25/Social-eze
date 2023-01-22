@@ -34,18 +34,18 @@ Social-eze  is a Social Media Platform which enables the users to have social In
 
 <h2>#Features 💡</h2>
 <br/>
-<h3>#Login and Overview with Dark Mode</h3>
+#Login and Overview with Dark Mode
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Login%20and%20DarkMode.gif)
 
-<h3>#Signup</h3>
+#Signup
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/SignUP.gif)
 
 <h3>Data Schema</h3>
 
-<h4>User Schema with Password Hashing using Bcrypt</h4>
+#User Schema with Password Hashing using Bcrypt
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-21%20205221.png)
 
-<h4>Posts Schema</h4>
+#Posts Schema
 ![](https://github.com/rushikeshg25/Social-eze/blob/main/client/Gifs%20for%20Readme/Screenshot%202023-01-22%20003528.png)
 
 <h1>Thank You!!!</h1>
